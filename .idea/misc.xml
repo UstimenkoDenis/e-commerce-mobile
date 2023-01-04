@@ -11,7 +11,7 @@
         <entry key="..\:/Users/Ustim/AndroidStudioProjects/ECommerce/app/src/main/res/layout/activity_course_page.xml" value="0.264" />
         <entry key="..\:/Users/Ustim/AndroidStudioProjects/ECommerce/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Ustim/AndroidStudioProjects/ECommerce/app/src/main/res/layout/category_item.xml" value="0.72" />
-        <entry key="..\:/Users/Ustim/AndroidStudioProjects/ECommerce/app/src/main/res/layout/course_item.xml" value="0.1" />
+        <entry key="..\:/Users/Ustim/AndroidStudioProjects/ECommerce/app/src/main/res/layout/course_item.xml" value="0.2" />
         <entry key="..\:/Users/Ustim/ECommerce/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
       </map>
     </option>
@@ -21,5 +21,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
   </component>
 </project>
