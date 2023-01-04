@@ -9,4 +9,8 @@
     <string name="categories">Категории</string>
     <string name="category">Категория</string>
     <string name="game_category">Игры</string>
+    <string name="course_item">course item</string>
+    <string name="course_start_date">Старт обучения:</string>
+    <string name="course_level">Уровень:</string>
+
 </resources>
