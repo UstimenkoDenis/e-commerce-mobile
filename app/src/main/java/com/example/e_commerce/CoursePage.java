@@ -4,8 +4,12 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import com.example.e_commerce.model.Order;
 
 public class CoursePage extends AppCompatActivity {
 
@@ -29,5 +33,11 @@ public class CoursePage extends AppCompatActivity {
         courseText.setText(getIntent().getStringExtra("courseText"));
 
 
+    }
+
+    public void addToCart(View view) {
+        int itemId = getIntent().getIntExtra("courseId", 0);
+        Order.itemsId.add(itemId);
+        Toast.makeText(this, "Добавлено", Toast.LENGTH_LONG).show();
     }
 }
